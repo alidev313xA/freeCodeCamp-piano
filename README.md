@@ -1,6 +1,6 @@
 # 🎹 Responsive Piano UI
 
-A simple yet visually engaging **piano interface** built with pure HTML and CSS. This project was created as part of the [Responsive Web Design(https://www.freecodecamp.org/learn/2022/responsive-web-design/) course from [freeCodeCamp](https://www.freecodecamp.org/).
+A simple yet visually engaging **piano interface** built with pure HTML and CSS. This project was created as part of the [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) course from [freeCodeCamp](https://www.freecodecamp.org/).
 
 ---
 
@@ -40,11 +40,6 @@ This project helped me:
 - 🎨 Enhance visual realism with gradients or shadows  
 - ⚠️ Improve accessibility with ARIA labels and keyboard navigation
 
----
-
-## 🧑‍💻 Author
-**Me :)** 
-- Created while learning [freeCodeCamp's](https://www.freecodecamp.org/) [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) Course.  
 ---
 
 ## 🔗 Live Demo
