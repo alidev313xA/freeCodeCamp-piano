@@ -43,12 +43,15 @@ This project helped me:
 ---
 
 ## 🧑‍💻 Author
-**Farman Ali**  
+**Me :)** 
 - Created while learning [freeCodeCamp's](https://www.freecodecamp.org/) [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) Course.  
 ---
 
 ## 🔗 Live Demo
 
-> _Coming soon... (You can host this using GitHub Pages, Netlify, or CodePen!)_
+[Click here to view the live demo](https://free-code-camp-piano-snowy.vercel.app/)
+
+🧪 **Try it yourself:**  
+Please check out the responsiveness by resizing or minimizing your browser window — the layout adapts for mobile, tablet, and desktop beautifully!
 
 
